@@ -5,8 +5,6 @@
 
 - "Bdoon Wasyt" Real estate listing website ["Bdoon Wasyt" website](https://bdoonwasyt.com/)
 
-- 🌱 I’m currently learning **Software testing.**
-
 - "Bdoon Wasyt" React Native android app ["Bdoon Wasyt" android app](https://play.google.com/store/apps/details?id=com.estatech.bdoonwasyt)
 
 - "Bdoon Wasyt" React Native ios app ["Bdoon Wasyt" ios app](https://apps.apple.com/us/app/boon-wasyt-%D8%A8%D8%AF%D9%88%D9%86-%D9%88%D8%B3%D9%8A%D8%B7/id6504409042)
@@ -14,6 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://haytham-atef.vercel.app/](https://haytham-atef.vercel.app/)
 
 - 📫 How to reach me **haytham.atef1@gmail.com**
+  
+-  🌱 I’m currently learning **Software testing.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
